@@ -6,7 +6,7 @@ I am a Computer Science student at University at Albany!
 - 👯 It's always fun to code with someone. Laughing, learning, and even arguing!
 - 🤔 Who am I? It's you to figure out! I don't know who I am!
 - 💬 You are free to ask any question! Please don't expect me to know them all...
-- 📫 Reach me on: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-chen-592191150/) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-chen-592191150/)
+- 📫 Reach me on: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-chen-592191150/)
 ---
 ### Languages and Tools:
 <div>
