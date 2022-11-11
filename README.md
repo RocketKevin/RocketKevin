@@ -2,7 +2,7 @@
 
 Hi there 👋 I'm Kevin!
 
-I am a Fullstack Web Developer
+I am a wannabe Fullstack Web Developer
 
 - 🔭 I want to see myself with the skills of web, mobile, game, and software dev
 - 🌱 I'll be stuck learning. It is said to be a never ending journey...
