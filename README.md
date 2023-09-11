@@ -30,4 +30,4 @@ I am a wannabe Fullstack Web Developer
 
 ### Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RocketKevin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RocketKevin&layout=compact&theme=vision-friendly-dark)]
